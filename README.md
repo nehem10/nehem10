@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nehemiah Hamid
-- 👀 I’m interested in Android Development(Kotlin),Python Programming(Flask,Django) ,SQLlite, Blockchain(Dapp)
-- 🌱 I’m currently Enhancing my learning in Android Development with kotlin and about Blockchain.
-- 💞️ I’m looking to collaborate on Android apps written in kotlin and Python related projects and also for any blockchain related tasks.
+- 👋 Hi, I’m Nehemiah Hamid , I am a Flutter developer. 
+- 👀 I’m interested in Flutter development and Android Development(Kotlin), Blockchain(Dapp)
+- 🌱 I’m currently Enhancing my learning in Flutter . 
+- 💞️ I’m looking to collaborate on Flutter projects and Android apps written in kotlin.
 - 📫 How to reach me Email: nehemiahamid002@gmail.com
 
 <!---
